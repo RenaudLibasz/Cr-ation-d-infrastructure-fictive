@@ -1,5 +1,5 @@
 # Creation d'infrastructure fictive
-Création d'une infrastructure basique comprenant plusieurs sous-réseaux, services et serveurs, reliés entre eux grâce à PfSense.
+Création d'une infrastructure basique ( ce projet pose les pierres d'une infrastructure fonctionnelle, de nombreuses améliorations, tant en termes de performance que de sécurité sont tout à fait réalisable ) comprenant plusieurs sous-réseaux, services et serveurs, reliés entre eux grâce à PfSense.
 
 - Segmentation IP selon des tailles de disponibilité personnalisées.
 - Création d'un domaine Active Directory (AD) basique.
